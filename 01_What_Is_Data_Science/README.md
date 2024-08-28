@@ -19,11 +19,3 @@
 
 ## 🔑 Key Skills Learned 
 - An overall understanding of what data science is, and why it is changing the way we do business and research.
-
-## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
-
-<p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/2XLKEGZZPDCQ"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/01.What%20is%20Data%20Science/Asset/Cert1-1.png?raw=true" height="370"></a>
-  <a href="https://www.credly.com/badges/f0e0ae47-b039-4e05-89ef-fca2b6a408f9/public_url"><img src="https://github.com/HazmanNaim/IBM-Data-Science-Professional-Certificate/blob/main/01.What%20is%20Data%20Science/Asset/data-science-orientation.png?raw=true" height="370"></a>
-</p>
